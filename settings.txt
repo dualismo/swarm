@@ -1,0 +1,9 @@
+Rows: 100
+Cols: 100
+Steps: 100
+Red_Size: 100
+Red_A: -0.0001
+Red_B: -0.01
+Sea_Size: 100
+Sea_A: -0.001
+Sea_B: -0.01
